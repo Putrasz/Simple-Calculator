@@ -22,3 +22,4 @@ function hitung(value) {
         break
     }
 }
+asfgdg
